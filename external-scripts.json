@@ -11,5 +11,6 @@
   "hubot-youtube",
   "hubot-azure-scripts/brain/storage-blob-brain",
   "hubot-victory",
-  "hubot-business-cat"
+  "hubot-business-cat",
+  "hubot-situation"
 ]
